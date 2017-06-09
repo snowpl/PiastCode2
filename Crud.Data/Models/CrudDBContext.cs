@@ -14,6 +14,9 @@ namespace Crud.Data.Models
         }
 
         public virtual DbSet<Customer> Customer { get; set; }
+        public virtual DbSet<Outgoing> Outgoing { get; set; }
+        public virtual DbSet<Localization> Localization { get; set; }
+        public virtual DbSet<Tag> Tag { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

@@ -9,7 +9,10 @@ namespace Crud.Data.Models
 {
     public class Outgoing:IEntity
     {
+        #region IEntity
         public virtual int Id { get; set; }
+        public virtual DateTime? CreateDate { get; set; }
+#endregion IEntity
         public virtual Localization OutgoingLocalization { get; set; }
         public virtual DateTime OutgoingDate { get; set; }
         public virtual TimeSpan OutgoingTime { get; set; }
@@ -21,7 +24,11 @@ namespace Crud.Data.Models
         public virtual string Name { get; set; }
         public virtual string FirstName { get; set; }
         public virtual int ParticipantsCount { get; set; }
+<<<<<<< HEAD
         public virtual List<Tag> TagList { get; set; }
         public virtual DateTime? CreateDate { get; set; }
+=======
+        public virtual List<TagDTO> TagList { get; set; }
+>>>>>>> dcf4e080205b36ed6b17562fc2664c46ada88e66
     }
 }
