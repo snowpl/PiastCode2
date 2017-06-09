@@ -50,11 +50,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Configuration\CustomerConfiguration.cs" />
+    <Compile Include="Configuration\OutgoingConfiguration.cs" />
     <Compile Include="Mappings\CustomerDTOMapping.cs" />
     <Compile Include="Models\CrudDBContext.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Configuration\EntityConfigurationBase.cs" />
     <Compile Include="Models\IEntity.cs" />
+    <Compile Include="Models\Localization.cs" />
+    <Compile Include="Models\Outgoing.cs" />
+    <Compile Include="Models\Tag.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

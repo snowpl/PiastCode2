@@ -11,7 +11,8 @@ namespace Crud.Data.Configuration
     {
         public OutgoingConfiguration() : base("Outgoing")
         {
-            
+           
+
         }
     }
 }
