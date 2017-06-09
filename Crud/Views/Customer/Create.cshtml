@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+<!-- ko template: {name: 'CustomerForm' } -->
+<!-- /ko-->
+<script type="text/html" id="CustomerForm">
+    @Html.Partial("CustomerForm")
+</script>
+
+@section Scripts {
+    <script src="@Url.Content("~/Scripts/ViewModel/CustomerViewModel.js")"></script>
+    <script>
+    var url = '@Url.Action("Create")';
+
+    var vm = new CustomerViewModel(url);
+    var vmData = new CustomerDataViewModel();
+
+    var dataStr = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model));
+    var data = dataStr;
+
+
+    vmData = ko.mapping.fromJS(data, {}, vmData);
+    vm.Data(vmData);
+
+    ko.applyBindings(vm);
+    </script>
+}

@@ -1,0 +1,16 @@
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Repository\bin\Debug\Crud.Repository.dll.config
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Repository\bin\Debug\Crud.Repository.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Repository\bin\Debug\Crud.Repository.pdb
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Repository\bin\Debug\Crud.Data.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Repository\bin\Debug\Crud.DTO.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Repository\bin\Debug\EntityFramework.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Repository\bin\Debug\IData.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Repository\bin\Debug\Crud.Data.pdb
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Repository\bin\Debug\Crud.DTO.pdb
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Repository\bin\Debug\IData.pdb
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Repository\bin\Debug\EntityFramework.xml
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Repository\obj\Debug\Crud.Repository.csprojResolveAssemblyReference.cache
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Repository\obj\Debug\Crud.Repository.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Repository\obj\Debug\Crud.Repository.pdb

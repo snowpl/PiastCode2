@@ -1,0 +1,13 @@
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.IServices\bin\Debug\Crud.IServices.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.IServices\bin\Debug\Crud.IServices.pdb
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.IServices\bin\Debug\Crud.Data.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.IServices\bin\Debug\Crud.DTO.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.IServices\bin\Debug\IData.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.IServices\bin\Debug\EntityFramework.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.IServices\bin\Debug\Crud.Data.pdb
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.IServices\bin\Debug\Crud.DTO.pdb
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.IServices\bin\Debug\IData.pdb
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.IServices\bin\Debug\EntityFramework.xml
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.IServices\obj\Debug\Crud.IServices.csprojResolveAssemblyReference.cache
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.IServices\obj\Debug\Crud.IServices.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.IServices\obj\Debug\Crud.IServices.pdb

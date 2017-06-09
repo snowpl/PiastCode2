@@ -1,0 +1,5 @@
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Common\bin\Debug\Crud.Common.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Common\bin\Debug\Crud.Common.pdb
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Common\obj\Debug\Crud.Common.csprojResolveAssemblyReference.cache
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Common\obj\Debug\Crud.Common.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Common\obj\Debug\Crud.Common.pdb

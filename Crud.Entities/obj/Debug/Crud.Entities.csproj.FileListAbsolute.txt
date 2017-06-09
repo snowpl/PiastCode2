@@ -1,0 +1,5 @@
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Entities\bin\Debug\Crud.Entities.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Entities\bin\Debug\Crud.Entities.pdb
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Entities\obj\Debug\Crud.Entities.csprojResolveAssemblyReference.cache
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Entities\obj\Debug\Crud.Entities.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Entities\obj\Debug\Crud.Entities.pdb

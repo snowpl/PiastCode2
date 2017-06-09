@@ -1,0 +1,4 @@
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.DTO\bin\Debug\Crud.DTO.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.DTO\bin\Debug\Crud.DTO.pdb
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.DTO\obj\Debug\Crud.DTO.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.DTO\obj\Debug\Crud.DTO.pdb

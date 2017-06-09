@@ -1,0 +1,38 @@
+﻿@model Crud.Models.CustomerViewModel
+
+<form method="post" data-bind="event: {submit: SaveChanges}">
+    @Html.ValidationSummary(true)
+    <fieldset>
+
+        <div class="editor-label">
+            @Html.LabelFor(m => m.Name)
+        </div>
+        <div class="editor-field">
+            <input id="Name" name="Name" type="text" maxlength="50" data-bind="value: Data().Name, required:{}" />
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(m => m.Surname)
+        </div>
+        <div class="editor-field">
+            <input id="Surname" name="Surname" type="text" maxlength="50" data-bind="value: Data().Surname, required:{}" />
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(m => m.TelephoneNumber)
+        </div>
+        <div class="editor-field">
+            <input id="TelephoneNumber" name="TelephoneNumber" type="text" maxlength="50" data-bind="value: Data().TelephoneNumber, required:{}" />
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(m => m.Address)
+        </div>
+        <div class="editor-field">
+            <input id="Address" name="Address" type="text" maxlength="50" data-bind="value: Data().Address, required:{}" />
+        </div>
+        <p class="buttonsBottom">
+            <input type="submit" value="Zapisz" />
+            <input type="button" onclick="if(confirm('Anuluj    ')) { $('.content').shield('up'); window.location = '@Url.Action("Index")    ';}" value="Anuluj" />
+        </p>
+    </fieldset>
+</form>

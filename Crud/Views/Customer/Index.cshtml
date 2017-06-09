@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Crud.Models.CustomerViewModel>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>Wykonano prostego CRUDa, z braku czasu nie ostylowałem niczego.</p>
+<p>Baza tworzy sie automatycznie na lokalnej bazie</p>
+<p>Całość zajęła mi ok. 8h</p>
+<p>Pozdrawiam</p>
+
+@Html.ActionLink("Create", "Create")
+<table class="table">
+    <thead>
+        <tr>
+            <th>Imię</th>
+            <th>Nazwisko</th>
+            <th>Numer telefonu</th>
+            <th>Adres</th>
+        </tr>
+    </thead>
+    <tbody class="tbodyAuthor">
+        @foreach (var item in @Model)
+            {
+            <tr>
+                <td>@Html.DisplayTextFor(p => item.Name)</td>
+                <td>@Html.DisplayTextFor(p => item.Surname)</td>
+                <td>@Html.DisplayTextFor(p => item.TelephoneNumber)</td>
+                <td>@Html.DisplayTextFor(p => item.Address)</td>
+                <td>@Html.ActionLink("Edit", "Edit", new { Id = item.Id })</td>
+                <td>@Html.ActionLink("Delete", "Delete", new { Id = item.Id })</td>
+            </tr>
+        }
+    </tbody>
+</table>

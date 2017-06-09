@@ -1,0 +1,11 @@
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\IData\bin\Debug\IData.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\IData\bin\Debug\IData.pdb
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\IData\bin\Debug\Crud.Data.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\IData\bin\Debug\Crud.DTO.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\IData\bin\Debug\EntityFramework.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\IData\bin\Debug\Crud.Data.pdb
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\IData\bin\Debug\Crud.DTO.pdb
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\IData\bin\Debug\EntityFramework.xml
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\IData\obj\Debug\Crud.IRepository.csprojResolveAssemblyReference.cache
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\IData\obj\Debug\IData.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\IData\obj\Debug\IData.pdb

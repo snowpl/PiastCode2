@@ -1,0 +1,30 @@
+﻿@model Crud.Models.CustomerViewModel
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+<!-- ko template: {name: 'CustomerForm' } -->
+<!-- /ko-->
+<script type="text/html" id="CustomerForm">
+    @Html.Partial("CustomerForm")
+</script>
+
+@section Scripts {
+    <script src="@Url.Content("~/Scripts/ViewModel/CustomerViewModel.js")"></script>
+    <script>
+    var url = '@Url.Action("Edit")';
+
+    var dataStr = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model));
+    var data = dataStr;
+
+
+    var vm = new CustomerViewModel(url);
+    var vmData = new CustomerDataViewModel();
+    vmData = ko.mapping.fromJS(data, {}, vmData);
+    vm.Data(vmData);
+
+    ko.applyBindings(vm);
+    </script>
+}

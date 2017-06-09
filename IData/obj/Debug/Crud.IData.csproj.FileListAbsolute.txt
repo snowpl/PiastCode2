@@ -1,0 +1,5 @@
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\IData\bin\Debug\IData.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\IData\bin\Debug\IData.pdb
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\IData\obj\Debug\Crud.IData.csprojResolveAssemblyReference.cache
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\IData\obj\Debug\IData.dll
+C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\IData\obj\Debug\IData.pdb
