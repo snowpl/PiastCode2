@@ -13,7 +13,7 @@ namespace Crud.Data.Mappings
         public static OutgoingDTO Map(this Outgoing source)
         {
             var target = new OutgoingDTO();
-            
+          
             target.CreateDate = DateTime.Now;
             target.Id = source.Id;
             target.Name = source.Name;
@@ -23,11 +23,11 @@ namespace Crud.Data.Mappings
             target.OutgoingDate = source.OutgoingDate;
             target.Title = source.Title;
             target.ParticipantsCount = source.ParticipantsCount;
-            target.OutgoingLocalization = source.OutgoingLocalization;
+            target.OutgoingLocalization = LocalizationDTOMapping.Map(source.OutgoingLocalization);
             target.OutgoingTime = source.OutgoingTime;
             target.PhotoUrl = source.PhotoUrl;
             target.Price = source.Price;
-            target.TagList = source.TagList;
+            target.TagList = TagDTOMapping.Map(source.TagList);
 
 
             return target;

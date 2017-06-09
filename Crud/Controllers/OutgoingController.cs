@@ -6,12 +6,12 @@ using System.Web.Mvc;
 
 namespace Crud.Controllers
 {
-    public class OutgoingController : Controller
+    public class OutgoingController : BaseController
     {
-        // GET: Outgoing
-        public ActionResult Index()
+        [HttpGet]
+        public JsonResult GetOutgoings()
         {
-            return View();
+            
         }
     }
 }
