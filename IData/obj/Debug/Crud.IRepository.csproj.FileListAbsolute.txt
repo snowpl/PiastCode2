@@ -9,3 +9,15 @@ C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\IData\bin\Debug\E
 C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\IData\obj\Debug\Crud.IRepository.csprojResolveAssemblyReference.cache
 C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\IData\obj\Debug\IData.dll
 C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\IData\obj\Debug\IData.pdb
+C:\DEV\PiastCode2\IData\bin\Debug\IData.dll
+C:\DEV\PiastCode2\IData\bin\Debug\IData.pdb
+C:\DEV\PiastCode2\IData\bin\Debug\Crud.Data.dll
+C:\DEV\PiastCode2\IData\bin\Debug\Crud.DTO.dll
+C:\DEV\PiastCode2\IData\bin\Debug\EntityFramework.dll
+C:\DEV\PiastCode2\IData\bin\Debug\Crud.Data.pdb
+C:\DEV\PiastCode2\IData\bin\Debug\Crud.Data.dll.config
+C:\DEV\PiastCode2\IData\bin\Debug\Crud.DTO.pdb
+C:\DEV\PiastCode2\IData\bin\Debug\EntityFramework.xml
+C:\DEV\PiastCode2\IData\obj\Debug\Crud.IRepository.csprojResolveAssemblyReference.cache
+C:\DEV\PiastCode2\IData\obj\Debug\IData.dll
+C:\DEV\PiastCode2\IData\obj\Debug\IData.pdb

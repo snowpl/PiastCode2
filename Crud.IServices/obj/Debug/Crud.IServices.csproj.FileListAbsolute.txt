@@ -11,3 +11,17 @@ C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.IServices\bi
 C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.IServices\obj\Debug\Crud.IServices.csprojResolveAssemblyReference.cache
 C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.IServices\obj\Debug\Crud.IServices.dll
 C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.IServices\obj\Debug\Crud.IServices.pdb
+C:\DEV\PiastCode2\Crud.IServices\bin\Debug\Crud.IServices.dll
+C:\DEV\PiastCode2\Crud.IServices\bin\Debug\Crud.IServices.pdb
+C:\DEV\PiastCode2\Crud.IServices\bin\Debug\Crud.Data.dll
+C:\DEV\PiastCode2\Crud.IServices\bin\Debug\Crud.DTO.dll
+C:\DEV\PiastCode2\Crud.IServices\bin\Debug\IData.dll
+C:\DEV\PiastCode2\Crud.IServices\bin\Debug\EntityFramework.dll
+C:\DEV\PiastCode2\Crud.IServices\bin\Debug\Crud.Data.pdb
+C:\DEV\PiastCode2\Crud.IServices\bin\Debug\Crud.Data.dll.config
+C:\DEV\PiastCode2\Crud.IServices\bin\Debug\Crud.DTO.pdb
+C:\DEV\PiastCode2\Crud.IServices\bin\Debug\IData.pdb
+C:\DEV\PiastCode2\Crud.IServices\bin\Debug\EntityFramework.xml
+C:\DEV\PiastCode2\Crud.IServices\obj\Debug\Crud.IServices.csprojResolveAssemblyReference.cache
+C:\DEV\PiastCode2\Crud.IServices\obj\Debug\Crud.IServices.dll
+C:\DEV\PiastCode2\Crud.IServices\obj\Debug\Crud.IServices.pdb

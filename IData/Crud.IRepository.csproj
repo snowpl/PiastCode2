@@ -41,7 +41,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Interfaces\Command\ICustomerCommandRepository.cs" />
+    <Compile Include="Interfaces\Command\IOutgoingCommandRepository.cs" />
     <Compile Include="Interfaces\Query\ICustomerQueryRepository.cs" />
+    <Compile Include="Interfaces\Query\IOutgoingQueryRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

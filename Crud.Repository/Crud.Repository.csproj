@@ -51,6 +51,7 @@
   <ItemGroup>
     <Compile Include="CustomerCommandRepository.cs" />
     <Compile Include="CustomerQueryRepository.cs" />
+    <Compile Include="OutgoingCommandRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
