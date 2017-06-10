@@ -26,10 +26,8 @@ namespace Crud.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult Add()
         {
-            ViewBag.Message = "Your application description page.";
-
             return View();
         }
 
