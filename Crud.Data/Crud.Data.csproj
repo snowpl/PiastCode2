@@ -50,7 +50,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Configuration\CustomerConfiguration.cs" />
+    <Compile Include="Configuration\OutgoingConfiguration.cs" />
     <Compile Include="Mappings\CustomerDTOMapping.cs" />
+    <Compile Include="Mappings\LocalizationDTOMapping.cs" />
+    <Compile Include="Mappings\OutgoingDTOMapping.cs" />
+    <Compile Include="Mappings\TagDTOMapping.cs" />
     <Compile Include="Models\CrudDBContext.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Configuration\EntityConfigurationBase.cs" />

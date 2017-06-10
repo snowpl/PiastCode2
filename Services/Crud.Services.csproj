@@ -44,6 +44,7 @@
     <Compile Include="Query\CustomerQueryService.cs" />
     <Compile Include="Mappings\CustomerDTOMappings.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Query\OutgoingQueryServices.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Crud.Data\Crud.Data.csproj">
