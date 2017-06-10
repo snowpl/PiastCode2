@@ -46,3 +46,16 @@ C:\Users\ZaX\Desktop\PiastCode\PiastCode2\IData\bin\Debug\EntityFramework.xml
 C:\Users\ZaX\Desktop\PiastCode\PiastCode2\IData\obj\Debug\Crud.IRepository.csprojResolveAssemblyReference.cache
 C:\Users\ZaX\Desktop\PiastCode\PiastCode2\IData\obj\Debug\IData.dll
 C:\Users\ZaX\Desktop\PiastCode\PiastCode2\IData\obj\Debug\IData.pdb
+D:\PiastCode\PiastCode2\IData\bin\Debug\IData.dll
+D:\PiastCode\PiastCode2\IData\bin\Debug\IData.pdb
+D:\PiastCode\PiastCode2\IData\bin\Debug\Crud.Data.dll
+D:\PiastCode\PiastCode2\IData\bin\Debug\Crud.DTO.dll
+D:\PiastCode\PiastCode2\IData\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PiastCode\PiastCode2\IData\bin\Debug\EntityFramework.dll
+D:\PiastCode\PiastCode2\IData\bin\Debug\Crud.Data.pdb
+D:\PiastCode\PiastCode2\IData\bin\Debug\Crud.Data.dll.config
+D:\PiastCode\PiastCode2\IData\bin\Debug\Crud.DTO.pdb
+D:\PiastCode\PiastCode2\IData\bin\Debug\EntityFramework.xml
+D:\PiastCode\PiastCode2\IData\obj\Debug\Crud.IRepository.csprojResolveAssemblyReference.cache
+D:\PiastCode\PiastCode2\IData\obj\Debug\IData.dll
+D:\PiastCode\PiastCode2\IData\obj\Debug\IData.pdb
