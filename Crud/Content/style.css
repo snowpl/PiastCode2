@@ -1,6 +1,7 @@
 body {
     background-color: gray;
-	font-family: Roboto;
+    font-family: Roboto;
+    color: #3a3a3a;
 }
 
 @media(max-width: 720px) {
@@ -99,19 +100,22 @@ h2 {
 	text-align: center;
 }
 
-ul li {
-	display: inline;
-	background-color: #34733F;
-	color: white;
-	padding: 15px 15px 15px 15px;
-	text-align: center;
-	left: 50%;
+#id_fil ul li {
+    display: inline;
+    background-color: #34733F;
+    color: white;
+    padding: 15px 15px 15px 15px;
+    text-align: center;
+    left: 50%;
 }
 
-ul li:hover {background-color: #204727}
+#id_fil ul li:hover {
+    background-color: #204727
+}
 
-ul {
-	padding-bottom: 20px;
+#id_fil ul {
+    width:50%;
+    margin: 0 auto;
 }
 
 .float {
@@ -136,3 +140,7 @@ ul {
     margin-top: 20px;
 }
 
+.center-cat {
+    width: 50%;
+    margin: 0 auto;
+}
