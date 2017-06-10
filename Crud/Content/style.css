@@ -77,6 +77,10 @@ body {
     #id_fil {
         margin-top: 60px;
     }
+
+    #id_fil p {
+        padding-top: 7px;
+    }
 }
 
 #id_create {
