@@ -73,6 +73,10 @@ body {
         width: 50%;
         margin: auto auto auto auto;
     }
+
+    #id_fil {
+        margin-top: 60px;
+    }
 }
 
 #id_create {
