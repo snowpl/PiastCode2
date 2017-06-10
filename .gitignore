@@ -266,3 +266,9 @@ Crud\.DTO/obj/Debug/
 Crud/obj/Debug/
 
 Services/obj/Debug/
+
+Crud/bin/
+
+Crud\.Data/bin/Debug/
+
+Crud\.IServices/bin/Debug/
