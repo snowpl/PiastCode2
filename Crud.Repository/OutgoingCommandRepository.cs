@@ -1,4 +1,3 @@
-
 using System;
 ﻿using Crud.Data.Models;
 using IData.Interfaces.Command;
@@ -61,9 +60,6 @@ namespace Crud.Repository
                 _context.SaveChanges();
             }
         }
-        public void AddNewOutgoing()
-        {
-            
-        }
+
     }
 }
