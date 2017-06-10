@@ -18,7 +18,6 @@ namespace Crud.Injector.Container
             kernel.Bind<ICustomerCommandService>().To<CustomerCommandService>().InThreadScope();
             kernel.Bind<ICustomerCommandRepository>().To<CustomerCommandRepository>().InThreadScope();
             kernel.Bind<ICustomerQueryRepository>().To<CustomerQueryRepository>().InThreadScope();
-            kernel.Bind<IOutGoingCommandRepository>().To<OutgoingCommandRepository>().InThreadScope();
             kernel.Bind<IOutgoingQueryRepository>().To<IOutgoingQueryRepository>().InThreadScope();
             kernel.Bind<IOutgoingQueryServices>().To<IOutgoingQueryServices>().InThreadScope();
         }

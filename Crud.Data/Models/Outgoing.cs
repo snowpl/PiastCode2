@@ -24,11 +24,6 @@ namespace Crud.Data.Models
         public virtual string Name { get; set; }
         public virtual string FirstName { get; set; }
         public virtual int ParticipantsCount { get; set; }
-<<<<<<< HEAD
         public virtual List<Tag> TagList { get; set; }
-        public virtual DateTime? CreateDate { get; set; }
-=======
-        public virtual List<TagDTO> TagList { get; set; }
->>>>>>> dcf4e080205b36ed6b17562fc2664c46ada88e66
     }
 }
