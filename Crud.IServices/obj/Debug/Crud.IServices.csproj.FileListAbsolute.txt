@@ -25,3 +25,16 @@ C:\DEV\PiastCode2\Crud.IServices\bin\Debug\EntityFramework.xml
 C:\DEV\PiastCode2\Crud.IServices\obj\Debug\Crud.IServices.csprojResolveAssemblyReference.cache
 C:\DEV\PiastCode2\Crud.IServices\obj\Debug\Crud.IServices.dll
 C:\DEV\PiastCode2\Crud.IServices\obj\Debug\Crud.IServices.pdb
+C:\Users\Piotr\Documents\piastcode1\Crud.IServices\bin\Debug\Crud.IServices.dll
+C:\Users\Piotr\Documents\piastcode1\Crud.IServices\bin\Debug\Crud.IServices.pdb
+C:\Users\Piotr\Documents\piastcode1\Crud.IServices\bin\Debug\Crud.Data.dll
+C:\Users\Piotr\Documents\piastcode1\Crud.IServices\bin\Debug\Crud.DTO.dll
+C:\Users\Piotr\Documents\piastcode1\Crud.IServices\bin\Debug\IData.dll
+C:\Users\Piotr\Documents\piastcode1\Crud.IServices\bin\Debug\EntityFramework.dll
+C:\Users\Piotr\Documents\piastcode1\Crud.IServices\bin\Debug\Crud.Data.pdb
+C:\Users\Piotr\Documents\piastcode1\Crud.IServices\bin\Debug\Crud.DTO.pdb
+C:\Users\Piotr\Documents\piastcode1\Crud.IServices\bin\Debug\IData.pdb
+C:\Users\Piotr\Documents\piastcode1\Crud.IServices\bin\Debug\EntityFramework.xml
+C:\Users\Piotr\Documents\piastcode1\Crud.IServices\obj\Debug\Crud.IServices.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Documents\piastcode1\Crud.IServices\obj\Debug\Crud.IServices.dll
+C:\Users\Piotr\Documents\piastcode1\Crud.IServices\obj\Debug\Crud.IServices.pdb
