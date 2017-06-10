@@ -4,12 +4,12 @@ body {
 }
 
 @media(max-width: 720px) {
-	#id_nav {
-	background-color: #300085;
-	height: 20px;
-	position: fixed;
-	left: 0;
-	}
+    #id_nav {
+        background-color: #470033;
+        height: 20px;
+        position: fixed;
+        left: 0;
+    }
 
 	#id_search {
 	padding-top: 6px;
@@ -37,11 +37,11 @@ body {
 }
 
 @media(min-width: 721px){
-	#id_nav {
-	    background-color: #300085;
-	    height: 20px;
-	    width: 100%;
-	}
+    #id_nav {
+        background-color: #470033;
+        height: 20px;
+        width: 100%;
+    }
 
 	#id_search {
 	    margin-top: 8px;
