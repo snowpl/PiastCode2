@@ -16,10 +16,10 @@ namespace Crud.Controllers
     public class OutgoingController : BaseController
     {
         private readonly IOutgoingQueryServices _outgoingQueryServices;
-        private readonly IOutGoingCommandRepository _outGoingCommandRepository;
+        private readonly IOutgoingCommandRepository _outGoingCommandRepository;
 
         public OutgoingController(
-            IOutgoingQueryServices outgoingQueryServices, IOutGoingCommandRepository outGoingCommandRepository)
+            IOutgoingQueryServices outgoingQueryServices, IOutgoingCommandRepository outGoingCommandRepository)
         {
             _outgoingQueryServices = outgoingQueryServices;
             _outGoingCommandRepository = outGoingCommandRepository;

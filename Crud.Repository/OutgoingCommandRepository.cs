@@ -11,7 +11,7 @@ using IData.Interfaces.Command;
 
 namespace Crud.Repository
 {
-    public class OutgoingCommandRepository: IOutGoingCommandRepository
+    public class OutgoingCommandRepository: IOutgoingCommandRepository
     {
         private readonly CrudDBContext _context;
         

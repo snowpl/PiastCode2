@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace IData.Interfaces.Command
 {
-    public interface IOutGoingCommandRepository
+    public interface IOutgoingCommandRepository
     {
         void AddEditOutgoing(Outgoing outgoing);
         void DeleteOutgoing(int id);
