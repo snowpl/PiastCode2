@@ -1,6 +1,0 @@
-C:\DEV\PiastCode2\Crud.DTO\bin\Debug\Crud.DTO.dll
-C:\DEV\PiastCode2\Crud.DTO\bin\Debug\Crud.DTO.pdb
-C:\DEV\PiastCode2\Crud.DTO\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\DEV\PiastCode2\Crud.DTO\obj\Debug\Crud.DTO.csprojResolveAssemblyReference.cache
-C:\DEV\PiastCode2\Crud.DTO\obj\Debug\Crud.DTO.dll
-C:\DEV\PiastCode2\Crud.DTO\obj\Debug\Crud.DTO.pdb
