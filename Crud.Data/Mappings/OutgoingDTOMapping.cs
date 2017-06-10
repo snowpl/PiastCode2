@@ -26,6 +26,8 @@ namespace Crud.Data.Mappings
             target.OutgoingTime = source.OutgoingTime;
             target.PhotoUrl = source.PhotoUrl;
             target.Price = source.Price;
+            target.MinPeople = source.MinPeople;
+            target.MaxPeople = source.MaxPeople;
             
             return target;
         }
@@ -46,8 +48,23 @@ namespace Crud.Data.Mappings
             target.OutgoingTime = source.OutgoingTime;
             target.PhotoUrl = source.PhotoUrl;
             target.Price = source.Price;
+            target.MinPeople = source.MinPeople;
+            target.MaxPeople = source.MaxPeople;
 
             return target;
         }
+        //public static OutgoingDTO MapToOutgoingDTO(Outgoing source)
+        //{
+        //    var target = new OutgoingDTO();
+
+        //    return Map(source, target);
+        //}
+
+        //public static Outgoing MapToOutgoing(OutgoingDTO source)
+        //{
+        //    var target = new Outgoing();
+
+        //    return Map(source, target);
+        //}
     }
 }

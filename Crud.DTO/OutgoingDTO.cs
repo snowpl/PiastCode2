@@ -25,6 +25,8 @@ namespace Crud.DTO
         public string Name { get; set; }
         public string FirstName { get; set; }
         public int ParticipantsCount { get; set; }
+        public int MaxPeople { get; set; }
+        public int MinPeople { get; set; }
         public List<TagDTO> TagList { get; set; }
     }
 }

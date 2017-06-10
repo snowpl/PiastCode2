@@ -1,23 +1,22 @@
-using System;
-﻿using Crud.Data.Models;
-using IData.Interfaces.Command;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Crud.Data.Models;
 using IData.Interfaces.Command;
+using System.Linq;
+using System;
+using IData.Interfaces.Query;
+using Crud.Data.Mappings;
 
 namespace Crud.Repository
 {
-    public class OutgoingCommandRepository: IOutgoingCommandRepository
+    public class OutgoingCommandRepository: IData.Interfaces.Command.IOutgoingCommandRepository
     {
         private readonly CrudDBContext _context;
+        private readonly IOutgoingQueryRepository _outgoingRepository;
         
-        public OutgoingCommandRepository(CrudDBContext context)
+        public OutgoingCommandRepository(CrudDBContext context,
+            IOutgoingQueryRepository outgoingRepostiory)
         {
             _context = context;
+            _outgoingRepository = outgoingRepostiory;
         }
 
         public void AddEditOutgoing(Outgoing outgoing)
@@ -61,5 +60,12 @@ namespace Crud.Repository
             }
         }
 
+        public void IncrementPeopleGoing(int outgoingId)
+        {
+            var outgoing = _outgoingRepository.GetOutgoingById(outgoingId);
+            outgoing.ParticipantsCount++;
+            var result = OutgoingDTOMapping.Map(outgoing);
+            AddEditOutgoing(result);
+        }
     }
 }

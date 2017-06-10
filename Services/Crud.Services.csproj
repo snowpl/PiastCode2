@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Command\CustomerCommandService.cs" />
+    <Compile Include="Command\OutgoingCommandService.cs" />
     <Compile Include="Query\CustomerQueryService.cs" />
     <Compile Include="Mappings\CustomerDTOMappings.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

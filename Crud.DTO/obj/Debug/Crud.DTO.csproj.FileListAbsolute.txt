@@ -18,3 +18,4 @@ C:\Users\ZaX\Desktop\PiastCode\PiastCode2\Crud.DTO\bin\Debug\System.Runtime.Inte
 C:\Users\ZaX\Desktop\PiastCode\PiastCode2\Crud.DTO\obj\Debug\Crud.DTO.csprojResolveAssemblyReference.cache
 C:\Users\ZaX\Desktop\PiastCode\PiastCode2\Crud.DTO\obj\Debug\Crud.DTO.dll
 C:\Users\ZaX\Desktop\PiastCode\PiastCode2\Crud.DTO\obj\Debug\Crud.DTO.pdb
+C:\DEV\PiastCode2\Crud.DTO\obj\Debug\Crud.DTO.csprojResolveAssemblyReference.cache
