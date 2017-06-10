@@ -199,6 +199,8 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\script.js" />
+    <Content Include="Content\style.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -241,6 +243,8 @@
     <Content Include="Views\Customer\Edit.cshtml" />
     <Content Include="Views\Customer\Create.cshtml" />
     <Content Include="Views\Customer\CustomerForm.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Home\Add.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -255,10 +259,6 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Crud.Data\Crud.Data.csproj">
-      <Project>{9BEA06DE-417F-44AB-B9D2-68194A62FDB4}</Project>
-      <Name>Crud.Data</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Crud.DTO\Crud.DTO.csproj">
       <Project>{f412bbd6-18f7-4da3-89f7-f6011df10172}</Project>
       <Name>Crud.DTO</Name>

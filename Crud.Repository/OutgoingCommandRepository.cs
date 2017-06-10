@@ -4,10 +4,11 @@ using System.Linq;
 using System;
 using IData.Interfaces.Query;
 using Crud.Data.Mappings;
+using Crud.DTO;
 
 namespace Crud.Repository
 {
-    public class OutgoingCommandRepository: IData.Interfaces.Command.IOutgoingCommandRepository
+    public class OutgoingCommandRepository: IOutgoingCommandRepository
     {
         private readonly CrudDBContext _context;
         private readonly IOutgoingQueryRepository _outgoingRepository;
@@ -19,8 +20,9 @@ namespace Crud.Repository
             _outgoingRepository = outgoingRepostiory;
         }
 
-        public void AddEditOutgoing(Outgoing outgoing)
+        public void AddEditOutgoing(OutgoingDTO outgoingdto)
         {
+            var outgoing = outgoingdto.Map();
             if (outgoing.Id > 0)
             {
                 var current = _context.Set<Outgoing>().FirstOrDefault(x => x.Id == outgoing.Id);
@@ -64,8 +66,7 @@ namespace Crud.Repository
         {
             var outgoing = _outgoingRepository.GetOutgoingById(outgoingId);
             outgoing.ParticipantsCount++;
-            var result = OutgoingDTOMapping.Map(outgoing);
-            AddEditOutgoing(result);
+            AddEditOutgoing(outgoing);
         }
     }
 }

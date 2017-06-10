@@ -1,4 +1,5 @@
 ﻿using Crud.Data.Models;
+using Crud.DTO;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,7 @@ namespace IData.Interfaces.Command
 {
     public interface IOutgoingCommandRepository
     {
-        void AddEditOutgoing(Outgoing outgoing);
+        void AddEditOutgoing(OutgoingDTO outgoing);
         void DeleteOutgoing(int id);
         void IncrementPeopleGoing(int outgoingId);
     }

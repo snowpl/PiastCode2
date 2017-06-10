@@ -35,7 +35,7 @@ namespace Services.Command
 
         void IOutgoingCommandService.AddEditOutgoing(OutgoingDTO dto)
         {
-            throw new NotImplementedException();
+            _outgoingCommandRepository.AddEditOutgoing(dto);
         }
     }
 }
