@@ -1,10 +1,10 @@
-var add=false
+var add = true;
 
 $(document).ready(function () {
     if (add === false) {
         $('#id_add_span').addClass('glyphicon-plus');
     }
-    else if (add===true) {
+    else {
         $('#id_add_span').addClass('glyphicon-home');
     }
 });
