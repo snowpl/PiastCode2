@@ -84,14 +84,28 @@ body {
     }
 }
 
-#id_create {
-	padding-top: 50px;
-	width: 50%;
-	margin: auto auto auto auto;
+#id_fil {
+    position: fixed;
+    background-color: white;
+    border-color: #470033;
+    border-width:2px;
+    border-style: solid;
+    margin: 5% auto;
+    margin-top: 50px;
+    left: 0;
+    right: 0;
+    height: 250px;
+    padding: 20px 20px 20px 20px;
 }
 
-h2 {
-	text-align: center;
+#id_fil h2 {
+    margin-top: 0px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#id_fil_price {
+    margin-top: 40px;
 }
 
 .cat {
