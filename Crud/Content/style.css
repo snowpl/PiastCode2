@@ -124,8 +124,16 @@ p {
 
 .input-cl {
 	margin-left: 10px;
-	width: 100px;
+	width: 150px;
 	display: inline-block;
+}
+
+#id_fil_time input{
+    width: 100px;
+}
+
+#id_create {
+    margin-top: 50px;
 }
 
 .margin-top {
