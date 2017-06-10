@@ -18,5 +18,14 @@ namespace Crud.Data.Mappings
                 longitude = source.longitude
             };
         }
+
+        public static Localization Map(LocalizationDTO source)
+        {
+            return new Localization
+            {
+                Latitude = source.Latitude,
+                longitude = source.longitude
+            };
+        }
     }
 }

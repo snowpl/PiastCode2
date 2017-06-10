@@ -28,7 +28,10 @@ namespace Crud.Data.Mappings
             target.Price = source.Price;
             target.MinPeople = source.MinPeople;
             target.MaxPeople = source.MaxPeople;
-            
+            target.OutgoingLocalization = new LocalizationDTO();
+            target.OutgoingLocalization.Latitude = source.OutgoingLocalization.Latitude;
+            target.OutgoingLocalization.longitude = source.OutgoingLocalization.longitude;
+
             return target;
         }
 
@@ -50,6 +53,9 @@ namespace Crud.Data.Mappings
             target.Price = source.Price;
             target.MinPeople = source.MinPeople;
             target.MaxPeople = source.MaxPeople;
+            target.OutgoingLocalization = new Localization();
+            target.OutgoingLocalization.Latitude = source.OutgoingLocalization.Latitude;
+            target.OutgoingLocalization.longitude = source.OutgoingLocalization.longitude;
 
             return target;
         }
