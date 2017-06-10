@@ -7,6 +7,7 @@ using IData.Interfaces.Command;
 using Crud.Repositories;
 using Crud.Repository;
 using IData.Interfaces.Query;
+using Services.Query;
 
 namespace Crud.Injector.Container
 {
@@ -18,8 +19,8 @@ namespace Crud.Injector.Container
             kernel.Bind<ICustomerCommandService>().To<CustomerCommandService>().InThreadScope();
             kernel.Bind<ICustomerCommandRepository>().To<CustomerCommandRepository>().InThreadScope();
             kernel.Bind<ICustomerQueryRepository>().To<CustomerQueryRepository>().InThreadScope();
-            kernel.Bind<IOutgoingQueryRepository>().To<IOutgoingQueryRepository>().InThreadScope();
-            kernel.Bind<IOutgoingQueryServices>().To<IOutgoingQueryServices>().InThreadScope();
+            kernel.Bind<IOutgoingQueryRepository>().To<OutgoingQueryRepository>().InThreadScope();
+            kernel.Bind<IOutgoingQueryServices>().To<OutgoingQueryServices>().InThreadScope();
         }
     }
 }

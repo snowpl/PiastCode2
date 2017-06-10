@@ -1,7 +1,7 @@
 ﻿$(document).ready(function () {
     var x = document.getElementById("demo");
 
-    function getLocation() {
+    function() {
         if (navigator.geolocation) {
             navigator.geolocation.getCurrentPosition(showPosition, showError);
         } else {
@@ -14,7 +14,9 @@
             "<br>Longitude: " + position.coords.longitude;
         var data = {
             lat = position.coords.latitude,
-            lon = position.coords.longitude 
+            lon = position.coords.longitude,
+            distance = 3
+            
         }
         $.post({
             type: "POST",
