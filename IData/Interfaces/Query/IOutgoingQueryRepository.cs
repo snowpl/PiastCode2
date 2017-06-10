@@ -10,6 +10,7 @@ namespace IData.Interfaces.Query
     public interface IOutgoingQueryRepository
     {
         List<OutgoingDTO> GetAll();
+        List<OutgoingDTO> GetAllIdAndCoords();
         OutgoingDTO GetOutgoingById(int id);
         List<OutgoingDTO> GetCategorizedOutgoing(string categoryName);
         List<OutgoingDTO> GetOutgoingsBeforeTime(TimeSpan when);

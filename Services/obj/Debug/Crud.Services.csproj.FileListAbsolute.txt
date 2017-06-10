@@ -13,22 +13,6 @@ C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Services\bin\Debu
 C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Services\obj\Debug\Crud.Services.csprojResolveAssemblyReference.cache
 C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Services\obj\Debug\Services.dll
 C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Services\obj\Debug\Services.pdb
-C:\DEV\PiastCode2\Services\bin\Debug\Services.dll
-C:\DEV\PiastCode2\Services\bin\Debug\Services.pdb
-C:\DEV\PiastCode2\Services\bin\Debug\Crud.Data.dll
-C:\DEV\PiastCode2\Services\bin\Debug\Crud.DTO.dll
-C:\DEV\PiastCode2\Services\bin\Debug\Crud.IServices.dll
-C:\DEV\PiastCode2\Services\bin\Debug\IData.dll
-C:\DEV\PiastCode2\Services\bin\Debug\EntityFramework.dll
-C:\DEV\PiastCode2\Services\bin\Debug\Crud.Data.pdb
-C:\DEV\PiastCode2\Services\bin\Debug\Crud.Data.dll.config
-C:\DEV\PiastCode2\Services\bin\Debug\Crud.DTO.pdb
-C:\DEV\PiastCode2\Services\bin\Debug\Crud.IServices.pdb
-C:\DEV\PiastCode2\Services\bin\Debug\IData.pdb
-C:\DEV\PiastCode2\Services\bin\Debug\EntityFramework.xml
-C:\DEV\PiastCode2\Services\obj\Debug\Crud.Services.csprojResolveAssemblyReference.cache
-C:\DEV\PiastCode2\Services\obj\Debug\Services.dll
-C:\DEV\PiastCode2\Services\obj\Debug\Services.pdb
 C:\Users\Piotr\Documents\piastcode1\Services\bin\Debug\Services.dll
 C:\Users\Piotr\Documents\piastcode1\Services\bin\Debug\Services.pdb
 C:\Users\Piotr\Documents\piastcode1\Services\bin\Debug\Crud.Data.dll
@@ -44,3 +28,20 @@ C:\Users\Piotr\Documents\piastcode1\Services\bin\Debug\EntityFramework.xml
 C:\Users\Piotr\Documents\piastcode1\Services\obj\Debug\Crud.Services.csprojResolveAssemblyReference.cache
 C:\Users\Piotr\Documents\piastcode1\Services\obj\Debug\Services.dll
 C:\Users\Piotr\Documents\piastcode1\Services\obj\Debug\Services.pdb
+C:\DEV\PiastCode2\Services\obj\Debug\Crud.Services.csprojResolveAssemblyReference.cache
+C:\DEV\PiastCode2\Services\bin\Debug\Services.dll
+C:\DEV\PiastCode2\Services\bin\Debug\Services.pdb
+C:\DEV\PiastCode2\Services\bin\Debug\Crud.Data.dll
+C:\DEV\PiastCode2\Services\bin\Debug\Crud.DTO.dll
+C:\DEV\PiastCode2\Services\bin\Debug\Crud.IServices.dll
+C:\DEV\PiastCode2\Services\bin\Debug\IData.dll
+C:\DEV\PiastCode2\Services\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\DEV\PiastCode2\Services\bin\Debug\EntityFramework.dll
+C:\DEV\PiastCode2\Services\bin\Debug\Crud.Data.pdb
+C:\DEV\PiastCode2\Services\bin\Debug\Crud.Data.dll.config
+C:\DEV\PiastCode2\Services\bin\Debug\Crud.DTO.pdb
+C:\DEV\PiastCode2\Services\bin\Debug\Crud.IServices.pdb
+C:\DEV\PiastCode2\Services\bin\Debug\IData.pdb
+C:\DEV\PiastCode2\Services\bin\Debug\EntityFramework.xml
+C:\DEV\PiastCode2\Services\obj\Debug\Services.dll
+C:\DEV\PiastCode2\Services\obj\Debug\Services.pdb

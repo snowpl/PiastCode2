@@ -14,23 +14,6 @@ C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Repository\b
 C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Repository\obj\Debug\Crud.Repository.csprojResolveAssemblyReference.cache
 C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Repository\obj\Debug\Crud.Repository.dll
 C:\Users\BratKacpra\documents\visual studio 2015\Projects\Crud\Crud.Repository\obj\Debug\Crud.Repository.pdb
-C:\DEV\PiastCode2\Crud.Repository\bin\Debug\Crud.Repository.dll.config
-C:\DEV\PiastCode2\Crud.Repository\bin\Debug\Crud.Repository.dll
-C:\DEV\PiastCode2\Crud.Repository\bin\Debug\Crud.Repository.pdb
-C:\DEV\PiastCode2\Crud.Repository\bin\Debug\Crud.Data.dll
-C:\DEV\PiastCode2\Crud.Repository\bin\Debug\Crud.DTO.dll
-C:\DEV\PiastCode2\Crud.Repository\bin\Debug\EntityFramework.dll
-C:\DEV\PiastCode2\Crud.Repository\bin\Debug\EntityFramework.SqlServer.dll
-C:\DEV\PiastCode2\Crud.Repository\bin\Debug\IData.dll
-C:\DEV\PiastCode2\Crud.Repository\bin\Debug\Crud.Data.pdb
-C:\DEV\PiastCode2\Crud.Repository\bin\Debug\Crud.Data.dll.config
-C:\DEV\PiastCode2\Crud.Repository\bin\Debug\Crud.DTO.pdb
-C:\DEV\PiastCode2\Crud.Repository\bin\Debug\IData.pdb
-C:\DEV\PiastCode2\Crud.Repository\bin\Debug\EntityFramework.xml
-C:\DEV\PiastCode2\Crud.Repository\bin\Debug\EntityFramework.SqlServer.xml
-C:\DEV\PiastCode2\Crud.Repository\obj\Debug\Crud.Repository.csprojResolveAssemblyReference.cache
-C:\DEV\PiastCode2\Crud.Repository\obj\Debug\Crud.Repository.dll
-C:\DEV\PiastCode2\Crud.Repository\obj\Debug\Crud.Repository.pdb
 C:\Users\Piotr\Documents\piastcode1\Crud.Repository\bin\Debug\Crud.Repository.dll.config
 C:\Users\Piotr\Documents\piastcode1\Crud.Repository\bin\Debug\Crud.Repository.dll
 C:\Users\Piotr\Documents\piastcode1\Crud.Repository\bin\Debug\Crud.Repository.pdb
@@ -47,3 +30,21 @@ C:\Users\Piotr\Documents\piastcode1\Crud.Repository\bin\Debug\EntityFramework.Sq
 C:\Users\Piotr\Documents\piastcode1\Crud.Repository\obj\Debug\Crud.Repository.csprojResolveAssemblyReference.cache
 C:\Users\Piotr\Documents\piastcode1\Crud.Repository\obj\Debug\Crud.Repository.dll
 C:\Users\Piotr\Documents\piastcode1\Crud.Repository\obj\Debug\Crud.Repository.pdb
+C:\DEV\PiastCode2\Crud.Repository\bin\Debug\Crud.Repository.dll.config
+C:\DEV\PiastCode2\Crud.Repository\bin\Debug\Crud.Repository.dll
+C:\DEV\PiastCode2\Crud.Repository\bin\Debug\Crud.Repository.pdb
+C:\DEV\PiastCode2\Crud.Repository\bin\Debug\Crud.Data.dll
+C:\DEV\PiastCode2\Crud.Repository\bin\Debug\Crud.DTO.dll
+C:\DEV\PiastCode2\Crud.Repository\bin\Debug\EntityFramework.dll
+C:\DEV\PiastCode2\Crud.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\DEV\PiastCode2\Crud.Repository\bin\Debug\IData.dll
+C:\DEV\PiastCode2\Crud.Repository\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\DEV\PiastCode2\Crud.Repository\bin\Debug\Crud.Data.pdb
+C:\DEV\PiastCode2\Crud.Repository\bin\Debug\Crud.Data.dll.config
+C:\DEV\PiastCode2\Crud.Repository\bin\Debug\Crud.DTO.pdb
+C:\DEV\PiastCode2\Crud.Repository\bin\Debug\IData.pdb
+C:\DEV\PiastCode2\Crud.Repository\bin\Debug\EntityFramework.xml
+C:\DEV\PiastCode2\Crud.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\DEV\PiastCode2\Crud.Repository\obj\Debug\Crud.Repository.csprojResolveAssemblyReference.cache
+C:\DEV\PiastCode2\Crud.Repository\obj\Debug\Crud.Repository.dll
+C:\DEV\PiastCode2\Crud.Repository\obj\Debug\Crud.Repository.pdb

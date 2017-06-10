@@ -11,5 +11,6 @@ namespace Crud.IServices
         //zamienic categoryName na enum i przeniesc do commona
         List<OutgoingDTO> GetCategorizedOutgoing(string categoryName);
         List<OutgoingDTO> GetOutgoingsBeforeTime(TimeSpan when);
+        List<OutgoingDTO> GetOutgoingsFromDistance(double lan, double lon, double maxDistance);
     }
 }

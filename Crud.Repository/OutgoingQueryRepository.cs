@@ -45,5 +45,21 @@ namespace Crud.Repository
         {
             throw new NotImplementedException();
         }
+
+        public List<OutgoingDTO> GetAllIdAndCoords()
+        {
+            var entity = _dbContext.Outgoing.Select(x => x);
+            var result = new List<OutgoingDTO>();
+            foreach (var outgoing in entity)
+            {
+                var item = new OutgoingDTO();
+
+                item.OutgoingLocalization.Latitude = outgoing.OutgoingLocalization.Latitude;
+                item.OutgoingLocalization.longitude = outgoing.OutgoingLocalization.longitude;
+                item.Id = outgoing.Id;
+                result.Add(item);
+            }
+            return result;
+        }
     }
 }

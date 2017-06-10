@@ -9,8 +9,6 @@ using System.Web;
 using System.Web.Helpers;
 using System.Web.Mvc;
 using Crud.DTO;
-using Crud. 
-using Crud.Data.Mappings;
 using IData.Interfaces.Command;
 
 namespace Crud.Controllers
@@ -40,7 +38,8 @@ namespace Crud.Controllers
             try
             {
                 var newOutgoing = System.Web.Helpers.Json.Decode<OutgoingDTO>(outgoing);
-                _outGoingCommandRepository.AddEditOutgoing(OutgoingDTOMapping.Map(newOutgoing));
+                //ODWOLUJEMY SIE DO SERVICES NIE DO REPO
+                //_outGoingCommandRepository.AddEditOutgoing(OutgoingDTOMapping.Map(newOutgoing));
                 var result=new HttpStatusCodeResult(200);
                 return result;
 
